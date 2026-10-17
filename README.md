@@ -12,6 +12,13 @@ https://yaqoobdeveloper.github.io/Teal-Login-Screen-with-Sign-Up-Toggle-in-Flutt
 💻 **GitHub Repository:**  
 https://github.com/YaqoobDeveloper/Teal-Login-Screen-with-Sign-Up-Toggle-in-Flutter
 
+▶️ **Video Demo:**  
+https://youtube.com/shorts/OJdOD5m6xxk
+
+## 📸 Preview
+
+<img width="858" height="900" alt="Image" src="https://github.com/user-attachments/assets/47200a13-5d86-4091-a681-1dcf1925f7ad" />
+
 ## ✨ Features
 
 - 💚 Dark teal theme with a smooth green glow at the top
